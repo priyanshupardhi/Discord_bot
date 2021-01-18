@@ -27,4 +27,4 @@ client.on('message', (receivedMessage) => {
     // You can copy/paste the actual unicode emoji in the code (not _every_ unicode emoji works)
     receivedMessage.react("👍")
 })
-client.login("ODAwNjE2MTg2NzU2NDY0NzAx.YAUt7Q.F8OlX1S1kZg0JFAm28fCVHDaQf8")
+client.login("token for your bot")
